@@ -1,0 +1,3436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eventica WP v1.9.0\n"
+"Report-Msgid-Bugs-To: http://toko.press\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-09 18:17:07+0000\n"
+"Last-Translator: wpthemes <admin@toko.press>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+# @ tokopress
+#: 404.php:15 block-page-title.php:72 inc/libs/tokopress-general.php:26
+msgid "404 - Not Found"
+msgstr ""
+
+# @ tokopress
+#: 404.php:17
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+# @ tokopress
+#: 404.php:20
+msgid "a mistyped address"
+msgstr ""
+
+# @ tokopress
+#: 404.php:21
+msgid "an out-of-date link"
+msgstr ""
+
+# @ tokopress
+#: 404.php:24
+msgid "Perhaps searching can help."
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:14
+msgid "Footer Widget #1"
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:16
+msgid ""
+"This is \"Footer Widget #1\" widget area. Visit your <a href=\"%s\">Widgets "
+"Page</a> to add new widget to this area."
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:32
+msgid "Footer Widget #2"
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:34
+msgid ""
+"This is \"Footer Widget #2\" widget area. Visit your <a href=\"%s\">Widgets "
+"Page</a> to add new widget to this area."
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:50
+msgid "Footer Widget #3"
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:52
+msgid ""
+"This is \"Footer Widget #3\" widget area. Visit your <a href=\"%s\">Widgets "
+"Page</a> to add new widget to this area."
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:68
+msgid "Footer Widget #4"
+msgstr ""
+
+# @ tokopress
+#: block-footer-widget.php:70
+msgid ""
+"This is \"Footer Widget #4\" widget area. Visit your <a href=\"%s\">Widgets "
+"Page</a> to add new widget to this area."
+msgstr ""
+
+# @ tokopress
+#: block-home/block-brand-sponsors.php:5 inc/theme/options.php:562
+#: inc/theme/options2.php:653
+msgid "Our Sponsors"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-featured-event.php:2 block-home/block-slider-event.php:2
+#: block-home/block-upcoming-events.php:2
+msgid "Please install <strong>The Event Calendar</strong> plugin."
+msgstr ""
+
+# @ tokopress
+#: block-home/block-featured-event.php:31 inc/theme/options.php:432
+#: inc/theme/options.php:438 inc/theme/options2.php:506
+#: inc/theme/widgets.php:372 inc/theme/widgets.php:401
+msgid "Featured Event"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-featured-event.php:107
+msgid "Please use correct published Event ID."
+msgstr ""
+
+# @ tokopress
+#: block-home/block-recent-post.php:22 inc/theme/options2.php:551
+msgid "All Posts"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-recent-post.php:31 inc/theme/options.php:467
+#: inc/theme/options2.php:542
+msgid "Recent Updates"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-slider-event.php:57
+msgid "\"%s\" event category does not exist."
+msgstr ""
+
+# @ tokopress
+#: block-home/block-slider-event.php:99 inc/theme/options.php:354
+#: inc/theme/options2.php:402
+msgid "Detail"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-subscribe-form.php:8 inc/theme/options.php:497
+#: inc/theme/options2.php:576
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-subscribe-form.php:15 inc/theme/options.php:504
+#: inc/theme/options2.php:585
+msgid "never miss our latest news and events updates"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-testimonial.php:21 inc/theme/options.php:527
+#: inc/theme/options.php:532 inc/theme/options.php:541
+#: inc/theme/options2.php:611 inc/theme/options2.php:628
+msgid "Testimonials"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-upcoming-events.php:53 inc/theme/options.php:425
+#: inc/theme/options.php:474 inc/theme/options2.php:489
+msgid "All Events"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-upcoming-events.php:62 inc/theme/designs2.php:529
+#: inc/theme/options.php:381 inc/theme/options.php:386
+#: inc/theme/options.php:417 inc/theme/options2.php:435
+#: inc/theme/options2.php:480 inc/theme/widgets.php:132
+#: inc/theme/widgets.php:161
+msgid "Upcoming Events"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:8 inc/libs/tokopress-breadcrumb.php:194
+msgid "Home"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:20
+msgid "Tags: %s"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:36
+msgid "F d, Y"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:40 inc/libs/tokopress-breadcrumb.php:1051
+msgid "F Y"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:44 inc/libs/tokopress-breadcrumb.php:205
+#: inc/libs/tokopress-breadcrumb.php:1047 inc/libs/tokopress-general.php:47
+#: inc/libs/tokopress-general.php:53
+msgid "Y"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:50
+msgid "Projects"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:54 inc/libs/tokopress-general.php:56
+msgid "Shop"
+msgstr ""
+
+# @ tokopress
+#: block-page-title.php:58 inc/libs/tokopress-breadcrumb.php:198
+msgid "Archives"
+msgstr ""
+
+# @ tokopress
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+# @ tokopress
+#: comments.php:22 inc/events/options2.php:200
+#: tribe-events/custom/fbcomments.php:7
+msgid "Comments"
+msgstr ""
+
+# @ tokopress
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ tokopress
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ tokopress
+#: comments.php:49 inc/libs/tokopress-post-meta.php:56
+msgid "Leave a comment"
+msgstr ""
+
+# @ tokopress
+#: comments.php:61
+msgid "Name *"
+msgstr ""
+
+# @ tokopress
+#: comments.php:62
+msgid "Email *"
+msgstr ""
+
+# @ tokopress
+#: comments.php:63
+msgid "Website"
+msgstr ""
+
+# @ tokopress
+#: comments.php:67
+msgid "post your comment here! *"
+msgstr ""
+
+# @ tokopress
+#: comments.php:69
+msgid "Post comment"
+msgstr ""
+
+# @ tokopress
+#: content-none.php:8
+msgid "Nothing Found!"
+msgstr ""
+
+# @ tokopress
+#: content-none.php:12
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ tokopress
+#: content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ tokopress
+#: content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:42
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+
+#: functions.php:103
+msgid "The events page widget area"
+msgstr ""
+
+#: functions.php:112
+msgid "The shop/product page widget area"
+msgstr ""
+
+#: functions.php:121
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:130
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:139
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:148
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: inc/events/designs2.php:26
+msgid "The Events Calendar"
+msgstr ""
+
+#: inc/events/designs2.php:34
+msgid "Featured Event (TEC4.4+)"
+msgstr ""
+
+#: inc/events/designs2.php:41
+msgid "Featured Event Background Color"
+msgstr ""
+
+#: inc/events/designs2.php:49
+msgid "Event List Box"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:56
+msgid "Event List Box - Event Date Background"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:64
+msgid "Event List Box - Event Cost Background"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:72
+msgid "Event List Separator Background"
+msgstr ""
+
+#: inc/events/designs2.php:80
+msgid "Events Calendar"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:87
+msgid "Events Calendar - Header (Day) Background"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:95
+msgid "Events Calendar - Header (Day) Border"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:103
+msgid "Events Calendar - Current Date Background"
+msgstr ""
+
+#: inc/events/designs2.php:111
+msgid "Single Event"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:118
+msgid "Single Event - Events Attendees Title Background"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:126
+msgid "Single Event - Events Gallery Title Background"
+msgstr ""
+
+# @ tokopress
+#: inc/events/designs2.php:134
+msgid "Single Event - Related Events Title Background"
+msgstr ""
+
+#: inc/events/designs2.php:142
+msgid "Single Event - Facebook Comments Title Background"
+msgstr ""
+
+#: inc/events/designs2.php:150 inc/events/options2.php:92
+#: inc/events/options2.php:250 inc/events/options2.php:304
+#: inc/theme/designs2.php:237 inc/theme/designs2.php:301
+#: inc/theme/designs2.php:380 inc/theme/designs2.php:443
+#: inc/theme/designs2.php:567 inc/theme/options2.php:104
+#: inc/theme/options2.php:137 inc/theme/options2.php:193
+#: inc/theme/options2.php:289 inc/theme/options2.php:679
+#: inc/woocommerce/designs2.php:49 inc/woocommerce/options2.php:115
+#: inc/woocommerce/options2.php:196 inc/woocommerce/options2.php:269
+#: inc/woocommerce/options2.php:342 inc/woocommerce/options2.php:378
+msgid "More ..."
+msgstr ""
+
+#: inc/events/designs2.php:151 inc/theme/designs2.php:238
+#: inc/theme/designs2.php:302 inc/theme/designs2.php:381
+#: inc/theme/designs2.php:444 inc/theme/designs2.php:568
+#: inc/woocommerce/designs2.php:50
+msgid "Go to Theme Options of this section"
+msgstr ""
+
+# @ tokopress
+#: inc/events/frontend.php:27
+msgid "Return To Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:69 inc/events/options.php:12
+#: tribe-events/custom/page-title.php:14
+msgid "Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:100 inc/events/functions.php:103
+msgid "All day"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:110 inc/events/functions.php:113
+#: inc/events/functions.php:122 inc/events/functions.php:125
+msgid "%s - %s"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:150 tribe-events/modules/meta/details.php:128
+msgid "(See All)"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:252
+msgid "Ticket - %s"
+msgstr ""
+
+# @ tokopress
+#: inc/events/functions.php:530
+msgid ""
+"WooCommerce is active, click here to go to WooCommerce Settings page to "
+"change CURRENCY options."
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:21 inc/events/options.php:128
+#: inc/events/options2.php:142 tribe-events/custom/gallery.php:15
+msgid "Event Gallery"
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:45 inc/events/gallery.php:57
+msgid "Delete"
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:57
+msgid "Add Images to Gallery"
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:57
+msgid "Add to gallery"
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:57
+msgid "Delete image"
+msgstr ""
+
+# @ tokopress
+#: inc/events/gallery.php:57
+msgid "Add gallery images"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:12
+msgid "Eventica - Event Details"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:23 inc/events/metabox.php:153
+#: inc/theme/widgets.php:498
+msgid "No"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:25 inc/events/metabox.php:154
+msgid "Yes"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:54
+msgid "Sell Ticket with Eventica & WooCommerce"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:82
+msgid "Edit in WooCommerce"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:82
+msgid "View Sales Report"
+msgstr ""
+
+#: inc/events/metabox.php:87
+msgid ""
+"This option will be <b>IGNORED</b> if you have active ticket for this event "
+"using Event Tickets or Event Tickets Plus plugin."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:94
+msgid "Event Cost"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:103
+msgid "Call To Action Text"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:109
+msgid "For example: Buy Ticket, Register Now, etc."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:110
+msgid "By default, it will show event price if available."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:116
+msgid "Call To Action URL"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:121
+msgid ""
+"It is useful if you want to link Call To Action button to third party "
+"website."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:122
+msgid "By default, it will use event website if available."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:128
+msgid "Event Schedule"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:133
+msgid "Please enter your event schedule, separated by new line."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:138
+msgid "Custom Content"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:143
+msgid ""
+"Please enter your custom content, it will be placed below event schedule "
+"section."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:149 tribe-events/custom/attendees.php:30
+msgid "Event Attendees"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:157
+msgid "Show attendees list on single event page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:164
+msgid "Submitter Name"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:174
+msgid "Submitter Email"
+msgstr ""
+
+# @ tokopress
+#: inc/events/metabox.php:184
+msgid "Submitter Notes"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:17
+msgid "Events - Catalog Page"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:22
+msgid "Events Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:23 inc/events/options2.php:27
+msgid "DISABLE page title on events catalog page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:30
+msgid "Events Sidebar"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:31 inc/events/options2.php:35
+msgid "DISABLE sidebar on events catalog page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:38
+msgid "Events Month and Year Separator"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:39 inc/events/options2.php:43
+msgid "DISABLE month and year separator on list view of events catalog page."
+msgstr ""
+
+#: inc/events/options.php:46
+msgid "Day of Week on Event Date"
+msgstr ""
+
+#: inc/events/options.php:47 inc/events/options2.php:51
+msgid "ENABLE day of week on list view of events catalog page."
+msgstr ""
+
+#: inc/events/options.php:54
+msgid "Recurring Events Information"
+msgstr ""
+
+#: inc/events/options.php:55 inc/events/options2.php:59
+msgid ""
+"DISABLE recurring event information on list view of events catalog page."
+msgstr ""
+
+#: inc/events/options.php:62
+msgid "Event Month Format"
+msgstr ""
+
+#: inc/events/options.php:63 inc/events/options2.php:67
+msgid "Show event month in short text format (3 letters)"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:70 inc/events/options2.php:75
+msgid "Custom Text For Events Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:71 inc/events/options.php:237
+#: inc/events/options2.php:76 inc/events/options2.php:287
+msgid "Default: Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:78 inc/events/options2.php:84
+msgid "Custom Text For \"Upcoming Events\" Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:86
+msgid "Events - Single Event Page"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:91
+msgid "Single Event Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:92 inc/events/options2.php:110
+msgid "DISABLE page title on single event page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:99
+msgid "Single Event Sidebar"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:100 inc/events/options2.php:118
+msgid "DISABLE sidebar on single event page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:107
+msgid "Single Venue Link"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:108 inc/events/options2.php:126
+msgid "LINK venue name to single venue page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:115
+msgid "Single Organizer Link"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:116 inc/events/options2.php:134
+msgid "LINK organizer name to single organizer page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:123
+msgid "Events - Single Event Page - Event Gallery"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:129 inc/events/options2.php:150
+msgid "DISABLE event gallery on single event page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:136 inc/events/options2.php:158
+msgid "Custom Text For Event Gallery Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:137 inc/events/options2.php:159
+msgid "Default: Event Gallery"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:144
+msgid "Events - Single Event Page - Related Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:149 inc/events/options2.php:167
+msgid "Related Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:150 inc/events/options2.php:175
+msgid "DISABLE related events on single event page."
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:157 inc/events/options2.php:183
+msgid "Custom Text For Related Events Title"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:158 inc/events/options2.php:184
+msgid "Default: Related Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:165 inc/theme/widgets.php:250
+#: inc/theme/widgets.php:279
+msgid "Past Events"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:166 inc/events/options2.php:192
+msgid "INCLUDE past events on related events."
+msgstr ""
+
+#: inc/events/options.php:173
+msgid "Events - Single Event Page - Comments"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:178
+msgid "Single Event Comment"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:179 inc/events/options2.php:208
+msgid "ENABLE comment on single event page."
+msgstr ""
+
+#: inc/events/options.php:186
+msgid "Events - Single Event Page - Facebook Comments"
+msgstr ""
+
+#: inc/events/options.php:191 inc/events/options2.php:216
+msgid "Facebook Comments"
+msgstr ""
+
+#: inc/events/options.php:192 inc/events/options2.php:224
+msgid "ENABLE Facebook Comments on single event page."
+msgstr ""
+
+#: inc/events/options.php:199 inc/events/options2.php:232
+msgid "Facebook App ID"
+msgstr ""
+
+#: inc/events/options.php:200 inc/events/options2.php:233
+msgid "Get your Facebook App ID"
+msgstr ""
+
+#: inc/events/options.php:207 inc/events/options2.php:241
+msgid "Custom Text For Facebook Comments Title"
+msgstr ""
+
+#: inc/events/options.php:208 inc/events/options2.php:242
+msgid "Default: Comments"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:215
+msgid "Events - Change the word Event/Events globally"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:220 inc/events/options2.php:268
+msgid "Events Label Singular"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:221 inc/events/options2.php:269
+msgid "Default: Event"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:228 inc/events/options2.php:277
+msgid "Events Label Singular Lowercase"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:229 inc/events/options2.php:278
+msgid "Default: event"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:236 inc/events/options2.php:286
+msgid "Events Label Plural"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:244 inc/events/options2.php:295
+msgid "Events Label Plural Lowercase"
+msgstr ""
+
+# @ tokopress
+#: inc/events/options.php:245 inc/events/options2.php:296
+msgid "Default: events"
+msgstr ""
+
+#: inc/events/options.php:253
+msgid "Events - Misc"
+msgstr ""
+
+#: inc/events/options.php:258
+msgid "Currency Locking"
+msgstr ""
+
+#: inc/events/options.php:259 inc/events/options2.php:324
+msgid "DISABLE currency locking to WooCommerce currency settings."
+msgstr ""
+
+#: inc/events/options2.php:10
+msgid "TP - The Events Calendar"
+msgstr ""
+
+#: inc/events/options2.php:18
+msgid "Events Page"
+msgstr ""
+
+#: inc/events/options2.php:93 inc/events/options2.php:251
+#: inc/events/options2.php:305 inc/theme/options2.php:105
+#: inc/theme/options2.php:138 inc/theme/options2.php:194
+#: inc/theme/options2.php:290 inc/theme/options2.php:680
+#: inc/woocommerce/options2.php:116 inc/woocommerce/options2.php:197
+#: inc/woocommerce/options2.php:270 inc/woocommerce/options2.php:343
+#: inc/woocommerce/options2.php:379
+msgid "Go to Theme Colors of this section"
+msgstr ""
+
+#: inc/events/options2.php:101
+msgid "Single Event Page"
+msgstr ""
+
+#: inc/events/options2.php:259
+msgid "Change Event/Events words globally"
+msgstr ""
+
+#: inc/events/options2.php:315
+msgid "WooCommerce Currency Locking"
+msgstr ""
+
+# @ tokopress
+#: inc/events/wootickets.php:5
+msgid "Events - WooTickets"
+msgstr ""
+
+# @ tokopress
+#: inc/events/wootickets.php:10
+msgid "WooTickets Quantity Input"
+msgstr ""
+
+# @ tokopress
+#: inc/events/wootickets.php:11
+msgid "Change default quantity input from \"0\" to \"1\""
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:90
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:197
+msgid "Save Options"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:198
+msgid "Restore Defaults"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:229
+msgid "Default options restored."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-framework-admin.php:283
+msgid "Options saved."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:66
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:68
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/option-framework/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+# @ tokopress
+#. translators: %s: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tokopress
+#. translators: %s: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name(s).
+#: inc/libs/tgm/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:393
+#: inc/libs/tgm/class-tgm-plugin-activation.php:912
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2618
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:394
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:395
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: dashboard link.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:1019
+#: inc/libs/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+# @ tokopress
+#. translators: %s: version number
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+# @ tokopress
+#. translators: 1: number of plugins.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#. translators: 1: number of plugins.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#. translators: 1: number of plugins.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+# @ tokopress
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+# @ tokopress
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+# @ tokopress
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name, 2: error message.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tokopress
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3609
+msgid "Show Details"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3609
+msgid "Hide Details"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:193
+msgid "Browse:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:195
+msgid "Search results for \"%s\""
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:196
+msgid "404 Not Found"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:197
+msgid "Page %d"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:199 inc/libs/tokopress-general.php:35
+msgid "g:i a"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:200
+msgid "Minute %d"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:201 inc/libs/tokopress-general.php:41
+msgid "g a"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:202
+msgid "d"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:203
+msgid "Week %d"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:204
+msgid "F"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:1055
+msgid "F j, Y"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:1142
+#: inc/libs/tokopress-breadcrumb.php:1178
+#: inc/libs/tokopress-breadcrumb.php:1195
+#: inc/libs/tokopress-breadcrumb.php:1226 inc/libs/tokopress-post-meta.php:89
+msgid "Edit"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:1170
+msgid "Split"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-breadcrumb.php:1174
+msgid "Merge"
+msgstr ""
+
+#: inc/libs/tokopress-customize.php:254
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/libs/tokopress-customize.php:967
+msgid "-- select font --"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:28
+msgid "Search Results for \"%1$s\""
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:35 inc/libs/tokopress-general.php:41
+#: inc/libs/tokopress-general.php:44 inc/libs/tokopress-general.php:50
+#: inc/libs/tokopress-general.php:53
+msgid "Archive for %1$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:38
+msgid "Archive for minute %1$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:38
+msgid "i"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:44
+msgid "F jS, Y"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:47
+msgid "Archive for week %1$s of %2$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:47
+msgid "W"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:71
+msgid "- Page %s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:83
+msgid "Search this website&hellip;"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:85
+msgid "Search"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:110
+msgid "Leave a Message"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:112
+msgid "Message via the contact form"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:116
+msgid "Submit"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:142
+msgid "Please enter your name"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:146
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:150
+msgid "Please enter your message"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:155
+msgid "Your answer was wrong!"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:158
+msgid "Please enter your answer"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:162
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:181
+#: tribe-events/modules/meta/organizer.php:51
+#: tribe-events/pro/single-organizer.php:107
+msgid "Email:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:182
+msgid "Name:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:183
+msgid "IP Address:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:183
+msgid "User Agent:"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:193
+msgid "[COPY]"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:202
+msgid "Your email was successfully sent."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:205
+msgid ""
+"There were technical error while submitting the form. Sorry for the "
+"inconvenience."
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:219
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:233
+msgid "Your Name"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:240
+msgid "Your Email"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:249
+msgid "Your Message"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:259
+msgid "Your Answer"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:272
+msgid "Send a copy of this email to you"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-general.php:282
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:56
+msgid "1 Comment"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:56
+msgid "%1$s Comments"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:66 inc/libs/tokopress-post-meta.php:68
+#: inc/libs/tokopress-post-meta.php:70
+msgid "Comment on %1$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:89
+msgid "Edit %1$s"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:112
+msgid "Shortlink"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:135
+msgid "&larr; Previous"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:138
+msgid "Next &rarr;"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:142
+msgid "&larr; Older"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:145
+msgid "Newer &rarr;"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tokopress-post-meta.php:162
+msgid "Post navigation"
+msgstr ""
+
+#: inc/theme/designs2.php:7
+msgid "Basic Colors"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:9
+msgid "Background"
+msgstr ""
+
+#: inc/theme/designs2.php:21
+msgid "TP - Fonts & Colors"
+msgstr ""
+
+#: inc/theme/designs2.php:34
+msgid "Basic Fonts"
+msgstr ""
+
+#: inc/theme/designs2.php:35
+msgid ""
+"We use the most popular google fonts here, 200 fonts, sorted by popularity. "
+"If your favourite google font is not here, please contact our support."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:44
+msgid "Body Font"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:52
+msgid "Body Font Size"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:64
+msgid "Heading Font"
+msgstr ""
+
+#: inc/theme/designs2.php:78
+msgid "Body Text Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:86
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:94
+msgid "Link Color (Hover)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:102
+msgid "Line/Border Color"
+msgstr ""
+
+#: inc/theme/designs2.php:116 inc/theme/options2.php:47
+msgid "Header - Top (Logo & Menu)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:124
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme/designs2.php:133
+msgid "Site Menu"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:140
+msgid "Menu Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:148
+msgid "Menu Color (Hover)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:156
+msgid "Submenu Background"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:164
+msgid "Submenu Background (Hover)"
+msgstr ""
+
+#: inc/theme/designs2.php:173
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/theme/designs2.php:180
+msgid "Mobile Menu Color"
+msgstr ""
+
+#: inc/theme/designs2.php:188
+msgid "Mobile Menu Color (Hover)"
+msgstr ""
+
+#: inc/theme/designs2.php:196
+msgid "Off-canvas Menu Background"
+msgstr ""
+
+#: inc/theme/designs2.php:204
+msgid "Off-canvas Menu Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:213 inc/theme/options.php:154
+#: inc/theme/options2.php:72 inc/theme/options2.php:80
+msgid "Site Logo"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:220
+msgid "Logo Background"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:228
+msgid "Logo Text Color"
+msgstr ""
+
+#: inc/theme/designs2.php:251 inc/theme/options2.php:15
+msgid "Header - Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:260 inc/theme/options.php:173
+msgid "Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:267
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/theme/designs2.php:268
+msgid "If page title background image is not available"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:276
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/theme/designs2.php:285
+msgid "Breadcrumb"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:292
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/theme/designs2.php:315 inc/theme/options2.php:176
+msgid "Footer - Widgets"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:323
+msgid "Footer Widget Background"
+msgstr ""
+
+#: inc/theme/designs2.php:331
+msgid "Footer Widget Text Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:339
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: inc/theme/designs2.php:347
+msgid "Footer Widget Link Color (Hover)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:355
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/theme/designs2.php:363
+msgid "Footer Widget Line Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:371
+msgid "Footer Widget Border Top Color"
+msgstr ""
+
+#: inc/theme/designs2.php:381 inc/theme/options2.php:194
+msgid "Setup Footer Widgets"
+msgstr ""
+
+#: inc/theme/designs2.php:394 inc/theme/options2.php:208
+msgid "Footer - Credits"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:402
+msgid "Footer Credit Background"
+msgstr ""
+
+#: inc/theme/designs2.php:410
+msgid "Footer Credit Text Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:418
+msgid "Footer Credit Link Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:426
+msgid "Footer Credit Link Color (Hover)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:434 inc/theme/designs2.php:465
+msgid "Back To Top Background Color"
+msgstr ""
+
+#: inc/theme/designs2.php:457
+msgid "Footer - Back To Top"
+msgstr ""
+
+#: inc/theme/designs2.php:473
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: inc/theme/designs2.php:487 inc/theme/options2.php:328
+msgid "Homepage Page Template"
+msgstr ""
+
+#: inc/theme/designs2.php:496 inc/theme/options2.php:337
+#: inc/theme/options2.php:703 inc/woocommerce/options2.php:27
+#: inc/woocommerce/options2.php:133 inc/woocommerce/options2.php:214
+#: inc/woocommerce/options2.php:287 inc/woocommerce/options2.php:360
+msgid "You are not in %s"
+msgstr ""
+
+#: inc/theme/designs2.php:496 inc/theme/designs2.php:497
+#: inc/theme/options2.php:337 inc/theme/options2.php:338
+msgid "Page with Homepage Page Template"
+msgstr ""
+
+#: inc/theme/designs2.php:497 inc/theme/options2.php:338
+#: inc/theme/options2.php:704 inc/woocommerce/options2.php:28
+#: inc/woocommerce/options2.php:134 inc/woocommerce/options2.php:215
+#: inc/woocommerce/options2.php:288 inc/woocommerce/options2.php:361
+msgid ""
+"These settings only affect %s. Please visit %s to see live preview for these "
+"settings."
+msgstr ""
+
+#: inc/theme/designs2.php:507 inc/theme/options2.php:348
+msgid ""
+"These options are for everyone who use Homepage Page Template. If you use "
+"Visual Composer to build your homepage, please IGNORE these options."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:514 inc/theme/options.php:318
+#: inc/theme/options.php:323 inc/theme/options2.php:358
+msgid "Events Slider"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:521
+msgid "Events Slider - Detail Background"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:536
+msgid "Upcoming Events - Background Color"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:544
+msgid "Upcoming Events - Background Image"
+msgstr ""
+
+#: inc/theme/designs2.php:552 inc/theme/options2.php:497
+msgid "Featured Single Event"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/designs2.php:559
+msgid "Featured Event - Title Background"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/frontend.php:104
+msgid "Says"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/frontend.php:105
+msgid "Reply"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/frontend.php:116
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/frontend.php:149
+msgid "Prev"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/frontend.php:150
+msgid "Next"
+msgstr ""
+
+#: inc/theme/frontend.php:241
+msgid "Menu"
+msgstr ""
+
+#: inc/theme/options.php:17
+msgid ""
+"<h3>We are moving to WordPress Customizer</h3><p>These theme options are "
+"available on WordPress Customizer.</p><p>We recommend you to use WordPress "
+"Customizer because it is better and has <strong>live preview</strong> "
+"feature.</p><p>We keep this theme options page for backward compatiblity.</"
+"p><p><strong><a href=\"%s\">Go To WordPress Customizer NOW!</a></strong></p> "
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:116
+msgid "Header"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:122 inc/theme/options.php:129 inc/theme/options2.php:6
+#: inc/theme/options2.php:9
+msgid "Favicon"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:124
+msgid ""
+"Go to <a href=\"%s\">Appearance - Customize - Site Identity</a> to customize "
+"Favicon (Site Icon)."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:136 inc/theme/options.php:141
+#: inc/theme/options2.php:56
+msgid "Sticky Header"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:142 inc/theme/options2.php:64
+msgid "ENABLE sticky header"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:149
+msgid "Header Section"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:160
+msgid "Minicart Icon"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:161 inc/theme/options2.php:96
+msgid "ENABLE minicart icon on header menu"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:168
+msgid "Page Title Section"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:174 inc/theme/options2.php:119
+msgid "DISABLE page title section globally."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:181 inc/theme/options2.php:161
+msgid "Header Scripts"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:186
+msgid "Header Script"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:187 inc/theme/options.php:293
+msgid "You can put any script here, for example your Google Analytics scripts."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:204
+msgid "Footer"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:209
+msgid "Footer Section"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:214
+msgid "Footer Widget"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:215
+msgid "DISABLE footer widget"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:222
+msgid "Footer Buttom"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:223
+msgid "DISABLE footer buttom"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:230 inc/theme/options2.php:225
+msgid "Footer Credit Text"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:237
+msgid "Social Icon"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:242
+msgid "DISABLE Social icons"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:243
+msgid "DISABLE social icons in footer"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:272
+msgid "Social #%s"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:279
+msgid "Social URL #%s"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:287 inc/theme/options2.php:313
+msgid "Footer Scripts"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:292
+msgid "Footer Script"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:308
+msgid "Home Template"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:324 inc/theme/options2.php:366
+msgid "DISABLE Events Slider"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:330 inc/theme/options2.php:374
+msgid "Event IDs"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:331 inc/theme/options2.php:375
+msgid ""
+"Separated by comma. Use this is you want to show some specific events for "
+"slider. \"Number of Events\" and \"Event Category\" options will be ignored."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:337 inc/theme/options.php:393
+#: inc/theme/options2.php:383 inc/theme/options2.php:452
+msgid "Number of Events"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:338 inc/theme/options2.php:384
+msgid ""
+"Use this is you want to show upcoming events for slider. Leave \"Event IDs\" "
+"option empty."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:345 inc/theme/options.php:401
+#: inc/theme/options2.php:392 inc/theme/options2.php:461
+msgid "Event Category Name"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:346 inc/theme/options2.php:393
+msgid ""
+"Put event category name here if you want to retrieve upcoming events from "
+"this category only. Leave \"Event IDs\" option empty."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:353 inc/theme/options2.php:401
+msgid "Button Text"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:354 inc/theme/options.php:374
+#: inc/theme/options.php:417 inc/theme/options.php:425
+#: inc/theme/options.php:438 inc/theme/options.php:467
+#: inc/theme/options.php:474 inc/theme/options.php:497
+#: inc/theme/options.php:504 inc/theme/options.php:541
+#: inc/theme/options.php:562 inc/theme/options2.php:402
+#: inc/theme/options2.php:427 inc/theme/options2.php:480
+#: inc/theme/options2.php:489 inc/theme/options2.php:506
+#: inc/theme/options2.php:542 inc/theme/options2.php:551
+#: inc/theme/options2.php:576 inc/theme/options2.php:585
+#: inc/theme/options2.php:628 inc/theme/options2.php:653
+msgid "Default:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:361 inc/theme/options.php:366
+#: inc/theme/options2.php:410
+msgid "Search Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:367 inc/theme/options2.php:418
+msgid "DISABLE Search Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:373 inc/theme/options2.php:426
+msgid "Placeholder Text"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:387 inc/theme/options2.php:443
+msgid "DISABLE Upcoming Events"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:394 inc/theme/options2.php:453
+msgid "Number of upcoming events to be displayed."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:402 inc/theme/options2.php:462
+msgid ""
+"Put event category name here if you want to retrieve upcoming events from "
+"this category only."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:409 inc/theme/options2.php:470
+msgid "Exclude"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:410 inc/theme/options2.php:471
+msgid "Insert Event IDs (separated by comma) to exclude."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:416 inc/theme/options.php:437
+#: inc/theme/options.php:466 inc/theme/options.php:496
+#: inc/theme/options.php:540 inc/theme/options.php:561
+#: inc/theme/options2.php:479 inc/theme/options2.php:505
+#: inc/theme/options2.php:541 inc/theme/options2.php:575
+#: inc/theme/options2.php:627 inc/theme/options2.php:652
+msgid "Section Title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:424 inc/theme/options.php:473
+#: inc/theme/options2.php:488 inc/theme/options2.php:550
+msgid "Link Text"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:443 inc/theme/options2.php:514
+msgid "Event ID"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:444 inc/theme/options2.php:515
+msgid "Insert Event ID for Featured Event."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:454 inc/theme/options.php:459
+#: inc/theme/options2.php:525
+msgid "Recent Updates (Blog)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:460 inc/theme/options2.php:533
+msgid "DISABLE Recent Updates (Blog)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:484 inc/theme/options.php:489
+#: inc/theme/options2.php:559
+msgid "Subscribe Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:490 inc/theme/options2.php:567
+msgid "DISABLE Subscribe Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:503 inc/theme/options2.php:584
+msgid "Section Description"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:517 inc/theme/options2.php:600
+msgid "Select Mailchimp Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:533 inc/theme/options2.php:619
+msgid "DISABLE Testimonials"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:548 inc/theme/options.php:553
+#: inc/theme/options2.php:636
+msgid "Brand Sponsors"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:554 inc/theme/options2.php:644
+msgid "DISABLE brand sponsors"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:569 inc/theme/options2.php:662
+msgid "Sponsor Logo #%s"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:575 inc/theme/options2.php:670
+msgid "Sponsor Link #%s"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:591
+msgid "Contact Template"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:596
+msgid "Contact Form"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:598
+msgid ""
+"We use simple contact form here. If you need <b>advanced contact form</b> "
+"(with more fields and setting), we recommend you to use Contact Form 7, "
+"Ninja Forms, or Gravity Forms plugin."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:602
+msgid "DISABLE Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:603 inc/theme/options2.php:722
+msgid "DISABLE Page Title in Contact page template"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:610
+msgid "DISABLE Sidebar"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:611 inc/theme/options2.php:730
+msgid "DISABLE Sidebar in Contact page template"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:618 inc/theme/options2.php:738
+msgid "Contact Map"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:624
+msgid "DISABLE Google Map"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:625 inc/theme/options2.php:746
+msgid "DISABLE Google Map in Contact page template"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:632 inc/theme/options2.php:755
+msgid "Latitude"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:633 inc/theme/options2.php:756
+msgid "Insert Latitude coordinate"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:639 inc/theme/options2.php:765
+msgid "Longitude"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:640 inc/theme/options2.php:766
+msgid "Insert Longitude coordinate"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:646 inc/theme/options2.php:773
+#: inc/theme/options2.php:775
+msgid "Marker Title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:647 inc/theme/options2.php:776
+msgid "Insert marker title"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:653 inc/theme/options2.php:783
+#: inc/theme/options2.php:785
+msgid "Marker Description"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:654 inc/theme/options2.php:786
+msgid "Insert marker description"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:660
+msgid "Google Maps API Key (optional)"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:661 inc/theme/options2.php:795
+msgid ""
+"Usage of the Google Maps APIs now requires a key if your domain was not "
+"active prior to June 22nd, 2016."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:661 inc/theme/options2.php:795
+msgid "Click here to get your Google Maps API key"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:676
+msgid "Misc"
+msgstr ""
+
+#: inc/theme/options.php:681 inc/theme/options2.php:818
+msgid "DISABLE One Click Demo Import"
+msgstr ""
+
+#: inc/theme/options.php:682
+msgid ""
+"DISABLE One Click Demo Import. If you have imported demo content or you do "
+"not need demo content, then it is better to disable One Click Demo Import "
+"feature."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:689 inc/theme/options2.php:842
+msgid "ENABLE Visual Composer License Page"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/options.php:690
+msgid ""
+"ENABLE Visual Composer License Page. It is useful if you purchase Visual "
+"Composer license to get direct plugin updates and official support from "
+"Visual Composer developer."
+msgstr ""
+
+#: inc/theme/options2.php:25
+msgid "TP - Theme Options"
+msgstr ""
+
+#: inc/theme/options2.php:33
+msgid "TP - Page Templates"
+msgstr ""
+
+#: inc/theme/options2.php:88
+msgid "Minicart"
+msgstr ""
+
+#: inc/theme/options2.php:128
+msgid "Page Title Background Image"
+msgstr ""
+
+#: inc/theme/options2.php:152
+msgid "Header - Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:185
+msgid "DISABLE footer widgets area"
+msgstr ""
+
+#: inc/theme/options2.php:217
+msgid "DISABLE footer credits area"
+msgstr ""
+
+#: inc/theme/options2.php:233
+msgid "Footer - Social Icons"
+msgstr ""
+
+#: inc/theme/options2.php:241
+msgid "DISABLE Social Icons"
+msgstr ""
+
+#: inc/theme/options2.php:246
+msgid "no icon"
+msgstr ""
+
+#: inc/theme/options2.php:272
+msgid "Social Icon #%s"
+msgstr ""
+
+#: inc/theme/options2.php:280
+msgid "Social Icon #%s URL"
+msgstr ""
+
+#: inc/theme/options2.php:304
+msgid "Footer - Scripts"
+msgstr ""
+
+#: inc/theme/options2.php:427
+msgid "Search Event &hellip;"
+msgstr ""
+
+#: inc/theme/options2.php:694
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/theme/options2.php:703 inc/theme/options2.php:704
+msgid "Page with Contact Page Template"
+msgstr ""
+
+#: inc/theme/options2.php:714
+msgid ""
+"These options are for everyone who use Contact Page Template. We use simple "
+"contact form here. If you need advanced contact form (with more fields and "
+"setting), we recommend you to use Contact Form 7, Caldera Forms, Ninja "
+"Forms, WP Forms, or Gravity Forms plugin."
+msgstr ""
+
+#: inc/theme/options2.php:794
+msgid "Google Maps API Key (recommended)"
+msgstr ""
+
+#: inc/theme/options2.php:809
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme/options2.php:819
+msgid ""
+"If you have imported demo content or you do not need demo content, then it "
+"is better to disable One Click Demo Import feature."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Visual Composer"
+msgstr ""
+
+#: inc/theme/options2.php:843
+msgid ""
+"It is useful if you purchase separate Visual Composer license to get direct "
+"plugin updates and official support from Visual Composer developer."
+msgstr ""
+
+#: inc/theme/plugins.php:184
+msgid ""
+"<p>If you have imported demo content or you do not need demo content, then "
+"it is better to disable One Click Demo Import feature.</p><p><strong><a href="
+"\"%s\">Disable One Click Demo Import NOW!</a></strong></p> "
+msgstr ""
+
+#: inc/theme/plugins.php:193
+msgid "Regenerate thumbnails using Force Regenerate Thumbnails plugin"
+msgstr ""
+
+#: inc/theme/plugins.php:194
+msgid "Go to Settings - Permalinks and click \"Save Changes\" button"
+msgstr ""
+
+#: inc/theme/plugins.php:196
+msgid "After you import this demo, you will have to:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/plugins.php:271
+msgid "Eventica - Home"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:16
+msgid "Theme Update"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:25
+msgid "Theme Update Options"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:34
+msgid "License Key"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:42
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/theme/update.php:46 inc/theme/update.php:49
+msgid "license status: %s"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:62
+msgid ""
+"Note: If you purchase this theme from ThemeForest, License Key is your "
+"Purchase Code."
+msgstr ""
+
+#: inc/theme/update.php:78
+msgid "unknown"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/update.php:179
+msgid ""
+"Updating this parent theme will lose any customizations you have made. "
+"Please consider using child theme for modifications. 'Cancel' to stop, 'OK' "
+"to update."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:16
+msgid "Your site&#8217;s most recent posts with thumbnail."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:17 inc/theme/widgets.php:46
+msgid "Recent Posts"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:119 inc/theme/widgets.php:236
+#: inc/theme/widgets.php:358 inc/theme/widgets.php:489
+msgid "Title:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:122 inc/theme/widgets.php:239
+#: inc/theme/widgets.php:361
+msgid "Number of events to show:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:131
+msgid "Your upcoming events with thumbnail."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:249
+msgid "Your past events with thumbnail."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:371
+msgid "Your featured event by ID."
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:410
+msgid "Register Now"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:492
+msgid "Event ID:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:496
+msgid "Show Content:"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:499
+msgid "Excerpt / Summary"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:500
+msgid "Full Content"
+msgstr ""
+
+# @ tokopress
+#: inc/theme/widgets.php:504
+msgid "Button Text:"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/designs2.php:9 inc/woocommerce/options.php:12
+msgid "WooCommerce"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/designs2.php:17
+msgid "Sale Flash Background"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/designs2.php:25
+msgid "Upsells - Title Background"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/designs2.php:33
+msgid "Related Products - Title Background"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/designs2.php:41
+msgid "Cart/Checkout - Table Header Background"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:17
+msgid "WooCommerce - Global"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:22 inc/woocommerce/options2.php:396
+msgid "Redirect URL After Customer Login"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:30
+msgid "WooCommerce - Shop Page"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:35
+msgid "Shop Page Title"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:36 inc/woocommerce/options2.php:37
+msgid "DISABLE page title on main shop page."
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:43
+msgid "Shop Sidebar"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:44 inc/woocommerce/options2.php:45
+msgid "DISABLE sidebar on shop page."
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:51
+msgid "Catalog Ordering"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:52 inc/woocommerce/options2.php:53
+msgid "DISABLE catalog ordering dropdown"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:58 inc/woocommerce/options2.php:61
+msgid "Products Per Page"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:65 inc/woocommerce/options2.php:70
+msgid "Products Column Per Row"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:77
+msgid "Products Sale Flash"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:78
+msgid "hide products sale flash"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:84
+msgid "Products Rating"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:85
+msgid "hide products rating"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:91
+msgid "Products Price"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:92
+msgid "hide products price"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:98
+msgid "Products \"Add To Cart\" Button"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:99 inc/woocommerce/options2.php:107
+msgid "DISABLE products \"add to cart\" button"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:106
+msgid "WooCommerce - Single Product"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:111
+msgid "Product Sidebar"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:112 inc/woocommerce/options2.php:143
+msgid "DISABLE sidebar on single product page."
+msgstr ""
+
+#: inc/woocommerce/options.php:118 inc/woocommerce/options2.php:151
+msgid "Product Image Layout"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#: inc/woocommerce/options.php:125 inc/woocommerce/options2.php:156
+msgid "Half Width"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:129
+msgid "Product Sale Flash"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:130
+msgid "hide product sale flash"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:136
+msgid "Product Price"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:137
+msgid "hide product price"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:143
+msgid "Product \"Add To Cart\" Button"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:144 inc/woocommerce/options2.php:180
+msgid "DISABLE product \"add to cart\" button"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:150
+msgid "Product Meta (categories/tags)"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:151 inc/woocommerce/options2.php:188
+msgid "DISABLE product meta (categories/tags)"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:158
+msgid "WooCommerce - Related Product"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:163
+msgid "Related Products"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:164 inc/woocommerce/options2.php:224
+msgid "DISABLE related products on single product page"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:170 inc/woocommerce/options.php:216
+#: inc/woocommerce/options2.php:232 inc/woocommerce/options2.php:305
+msgid "Column Per Row"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:182 inc/woocommerce/options2.php:246
+msgid "Number of Related Products"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:204
+msgid "WooCommerce - Up-Sells Product"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:209
+msgid "Up-Sells"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:210 inc/woocommerce/options2.php:297
+msgid "DISABLE up-sells products on single product page"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:228 inc/woocommerce/options2.php:319
+msgid "Number of Up-Sells Products"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:250
+msgid "WooCommerce - Cross-Sells Product"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:255
+msgid "Cross-Sells"
+msgstr ""
+
+# @ tokopress
+#: inc/woocommerce/options.php:256 inc/woocommerce/options2.php:370
+msgid "DISABLE Cross-sells products on cart page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:10
+msgid "TP - WooCommerce"
+msgstr ""
+
+#: inc/woocommerce/options2.php:18
+msgid "WC - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:27 inc/woocommerce/options2.php:28
+msgid "Shop Page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:83
+msgid "DISABLE products sale flash"
+msgstr ""
+
+#: inc/woocommerce/options2.php:91
+msgid "DISABLE products rating"
+msgstr ""
+
+#: inc/woocommerce/options2.php:99
+msgid "DISABLE products price"
+msgstr ""
+
+#: inc/woocommerce/options2.php:124
+msgid "WC - Single Product"
+msgstr ""
+
+#: inc/woocommerce/options2.php:133 inc/woocommerce/options2.php:134
+#: inc/woocommerce/options2.php:214 inc/woocommerce/options2.php:215
+#: inc/woocommerce/options2.php:287 inc/woocommerce/options2.php:288
+msgid "Single Product"
+msgstr ""
+
+#: inc/woocommerce/options2.php:164
+msgid "DISABLE product sale flash"
+msgstr ""
+
+#: inc/woocommerce/options2.php:172
+msgid "DISABLE product price"
+msgstr ""
+
+#: inc/woocommerce/options2.php:205
+msgid "WC - Related Product"
+msgstr ""
+
+#: inc/woocommerce/options2.php:278
+msgid "WC - Up-Sells Product"
+msgstr ""
+
+#: inc/woocommerce/options2.php:351
+msgid "WC - Cross-Sells Product"
+msgstr ""
+
+#: inc/woocommerce/options2.php:360 inc/woocommerce/options2.php:361
+msgid "Cart Page"
+msgstr ""
+
+#: inc/woocommerce/options2.php:387
+msgid "WC - Redirect"
+msgstr ""
+
+# @ tokopress
+#: page.php:40 page_contact.php:102 page_fullwidth.php:52
+#: page_fullwidth_notitle.php:44 page_notitle.php:45 page_withcomments.php:53
+#: single.php:43
+msgid "Pages:"
+msgstr ""
+
+# @ tokopress
+#: single.php:56
+msgid "Posted Under"
+msgstr ""
+
+# @ tokopress
+#: single.php:63
+msgid "Tags"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/custom/related-event.php:54
+msgid "RELATED EVENTS"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/custom/schedule.php:14
+msgid "Schedule"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/day/nav.php:17
+msgid "Day Navigation"
+msgstr ""
+
+#: tribe-events/list/nav.php:20 tribe-events/pro/map/nav.php:20
+#: tribe-events/pro/photo/nav.php:20
+msgid "%s List Navigation"
+msgstr ""
+
+#: tribe-events/list/nav.php:26
+msgid "Previous %s"
+msgstr ""
+
+#: tribe-events/list/nav.php:34
+msgid "Next %s"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:13
+msgid "Details"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:52
+#: tribe-events/modules/meta/details.php:83
+msgid "Start:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:59
+#: tribe-events/modules/meta/details.php:90
+msgid "End:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:71
+#: tribe-events/modules/meta/details.php:102
+msgid "Date:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:109
+msgid "Time:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:124
+msgid "Recurring:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:139
+msgid "Cost:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:150
+msgid "%s Categories"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:159
+msgid "%s Tags:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:166
+#: tribe-events/modules/meta/organizer.php:58
+#: tribe-events/pro/single-organizer.php:114
+msgid "Website:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/details.php:169
+msgid "Visit Event Website"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/organizer.php:44
+#: tribe-events/modules/meta/venue.php:50
+#: tribe-events/pro/single-organizer.php:100
+#: tribe-events/pro/single-venue.php:118
+msgid "Phone:"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/organizer.php:61
+#: tribe-events/pro/single-organizer.php:117
+msgid "Visit Organizer Website"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/venue.php:23 tribe-events/pro/single-venue.php:93
+msgid "Venue"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/modules/meta/venue.php:57 tribe-events/pro/single-venue.php:125
+msgid "Visit Venue Website"
+msgstr ""
+
+#: tribe-events/month/nav.php:19
+msgid "Calendar Month Navigation"
+msgstr ""
+
+#: tribe-events/pro/map/nav.php:25 tribe-events/pro/photo/nav.php:25
+msgid "<span>&laquo;</span> Previous %s"
+msgstr ""
+
+#: tribe-events/pro/map/nav.php:32 tribe-events/pro/photo/nav.php:31
+msgid "Next %s <span>&raquo;</span>"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/pro/single-organizer.php:49
+#: tribe-events/pro/single-venue.php:49
+msgid "Back to Events"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/pro/week/nav.php:16
+msgid "Week Navigation"
+msgstr ""
+
+# @ tokopress
+#: tribe-events/single-event.php:130
+msgid "Event Navigation"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Eventica WP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.toko.press"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Events and Ecommerce WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TokoPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.toko.press/support"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width + No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "With Comments"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-search-event.php:4 inc/theme/options.php:374
+msgctxt "placeholder"
+msgid "Search Event &hellip;"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-search-form.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+# @ tokopress
+#: block-home/block-search-event.php:16 block-home/block-search-event.php:17
+#: block-home/block-search-form.php:14 block-home/block-search-form.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:93
+msgctxt "sidebar"
+msgid "Primary"
+msgstr ""
+
+#: functions.php:102
+msgctxt "sidebar"
+msgid "Event"
+msgstr ""
+
+#: functions.php:111
+msgctxt "sidebar"
+msgid "Shop"
+msgstr ""
+
+#: functions.php:120
+msgctxt "sidebar"
+msgid "Footer #1"
+msgstr ""
+
+#: functions.php:129
+msgctxt "sidebar"
+msgid "Footer #2"
+msgstr ""
+
+#: functions.php:138
+msgctxt "sidebar"
+msgid "Footer #3"
+msgstr ""
+
+#: functions.php:147
+msgctxt "sidebar"
+msgid "Footer #4"
+msgstr ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:1206
+#: inc/libs/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ tokopress
+#. translators: 1: install status, 2: update status
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ tokopress
+#. translators: 1: number of plugins.
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tokopress
+#: inc/libs/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Posts Grid\n"
+"POT-Creation-Date: 2017-01-05 13:43+0700\n"
+"PO-Revision-Date: 2017-01-05 14:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/plugin-options.php:13
+msgid "Thumbnail size for small positions"
+msgstr ""
+
+#: admin/plugin-options.php:14
+msgid "Thumbnail size for medium positions"
+msgstr ""
+
+#: admin/plugin-options.php:15
+msgid "Thumbnail size for large positions"
+msgstr ""
+
+#: admin/plugin-options.php:16
+msgid "Force hide Category label in Thumbnail"
+msgstr ""
+
+#: admin/plugin-options.php:17
+msgid "Force hide Post Format Icon"
+msgstr ""
+
+#: admin/plugin-options.php:18
+msgid "Force hide Post Meta (author, date)"
+msgstr ""
+
+#: admin/plugin-options.php:19
+msgid "Force hide Read more Links"
+msgstr ""
+
+#: admin/plugin-options.php:20
+msgid "Custom Excerpt Length"
+msgstr ""
+
+#: admin/plugin-options.php:24
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: admin/plugin-options.php:25
+msgid "Turn off Bootstrap"
+msgstr ""
+
+#: cactus-smart-post-grid.php:90
+msgid "ALL"
+msgstr ""
+
+#: cactus-smart-post-grid.php:480
+msgid "READ MORE"
+msgstr ""
+
+#: cactus-smart-post-grid.php:500
+msgid "Smart Posts Grid"
+msgstr ""
+
+#: cactus-smart-post-grid.php:507 cactus-smart-post-grid.php:579
+msgid "Title"
+msgstr ""
+
+#: cactus-smart-post-grid.php:514
+msgid "Title Link"
+msgstr ""
+
+#: cactus-smart-post-grid.php:522
+msgid "Layout"
+msgstr ""
+
+#: cactus-smart-post-grid.php:525
+msgid "Layout 1"
+msgstr ""
+
+#: cactus-smart-post-grid.php:526
+msgid "Layout 2"
+msgstr ""
+
+#: cactus-smart-post-grid.php:527
+msgid "Layout 3"
+msgstr ""
+
+#: cactus-smart-post-grid.php:528
+msgid "Layout 4"
+msgstr ""
+
+#: cactus-smart-post-grid.php:529
+msgid "Layout 5"
+msgstr ""
+
+#: cactus-smart-post-grid.php:530
+msgid "Layout 6"
+msgstr ""
+
+#: cactus-smart-post-grid.php:531
+msgid "Layout 7"
+msgstr ""
+
+#: cactus-smart-post-grid.php:532
+msgid "Layout 8"
+msgstr ""
+
+#: cactus-smart-post-grid.php:533
+msgid "Layout 9"
+msgstr ""
+
+#: cactus-smart-post-grid.php:535
+msgid "Choose box layout."
+msgstr ""
+
+#: cactus-smart-post-grid.php:539
+msgid "Column"
+msgstr ""
+
+#: cactus-smart-post-grid.php:543
+msgid "1 column"
+msgstr ""
+
+#: cactus-smart-post-grid.php:544
+msgid "2 columns"
+msgstr ""
+
+#: cactus-smart-post-grid.php:545
+msgid "3 columns"
+msgstr ""
+
+#: cactus-smart-post-grid.php:551
+msgid "Choose Column for layout  4,5,6,7,9"
+msgstr ""
+
+#: cactus-smart-post-grid.php:556
+msgid "Count"
+msgstr ""
+
+#: cactus-smart-post-grid.php:559
+msgid "Number of items to show"
+msgstr ""
+
+#: cactus-smart-post-grid.php:564
+msgid "Post Type"
+msgstr ""
+
+#: cactus-smart-post-grid.php:567
+msgid "Post type slug to query"
+msgstr ""
+
+#: cactus-smart-post-grid.php:572
+msgid "Condition"
+msgstr ""
+
+#: cactus-smart-post-grid.php:575
+msgid "Latest"
+msgstr ""
+
+#: cactus-smart-post-grid.php:576
+msgid "Most viewed*"
+msgstr ""
+
+#: cactus-smart-post-grid.php:577
+msgid "Most Liked*"
+msgstr ""
+
+#: cactus-smart-post-grid.php:578
+msgid "Most commented"
+msgstr ""
+
+#: cactus-smart-post-grid.php:580
+msgid "IDs (only available when using IDs parameter)"
+msgstr ""
+
+#: cactus-smart-post-grid.php:581
+msgid "Random"
+msgstr ""
+
+#: cactus-smart-post-grid.php:584
+msgid "Condition to query items (*need WTI Like post & Top 10 plugin)"
+msgstr ""
+
+#: cactus-smart-post-grid.php:589
+msgid "Order by"
+msgstr ""
+
+#: cactus-smart-post-grid.php:592
+msgid "Descending"
+msgstr ""
+
+#: cactus-smart-post-grid.php:593
+msgid "Ascending"
+msgstr ""
+
+#: cactus-smart-post-grid.php:594
+msgid "Designates the ascending or descending order"
+msgstr ""
+
+#: cactus-smart-post-grid.php:598
+msgid "Categories"
+msgstr ""
+
+#: cactus-smart-post-grid.php:600
+msgid "list of categories (ID) to query items from, separated by a comma."
+msgstr ""
+
+#: cactus-smart-post-grid.php:604
+msgid "Tags"
+msgstr ""
+
+#: cactus-smart-post-grid.php:607
+msgid ""
+"list of tags to query items from, separated by a comma. For example: tag-1, "
+"tag-2, tag-3"
+msgstr ""
+
+#: cactus-smart-post-grid.php:611
+msgid "IDs"
+msgstr ""
+
+#: cactus-smart-post-grid.php:614
+msgid ""
+"list of post IDs to query, separated by a comma. If this value is not empty, "
+"cats, tags and featured are omitted"
+msgstr ""
+
+#: cactus-smart-post-grid.php:619
+msgid "Filter/arrange Style"
+msgstr ""
+
+#: cactus-smart-post-grid.php:622 cactus-smart-post-grid.php:649
+#: cactus-smart-post-grid.php:657
+msgid "No"
+msgstr ""
+
+#: cactus-smart-post-grid.php:623
+msgid "Categories Filter"
+msgstr ""
+
+#: cactus-smart-post-grid.php:624
+msgid "Carousel"
+msgstr ""
+
+#: cactus-smart-post-grid.php:625
+msgid "Choose filter/arrange style"
+msgstr ""
+
+#: cactus-smart-post-grid.php:630
+msgid "Heading Style"
+msgstr ""
+
+#: cactus-smart-post-grid.php:633
+msgid "Gradient"
+msgstr ""
+
+#: cactus-smart-post-grid.php:634
+msgid "Bar"
+msgstr ""
+
+#: cactus-smart-post-grid.php:639
+msgid "Heading Icon"
+msgstr ""
+
+#: cactus-smart-post-grid.php:641
+msgid "Name of Font icon."
+msgstr ""
+
+#: cactus-smart-post-grid.php:645
+msgid "Show category tag"
+msgstr ""
+
+#: cactus-smart-post-grid.php:648 cactus-smart-post-grid.php:656
+msgid "Yes"
+msgstr ""
+
+#: cactus-smart-post-grid.php:653
+msgid "Show Meta"
+msgstr ""
+
+#: cactus-smart-post-grid.php:662
+msgid "Change View All text"
+msgstr ""
+
+#: cactus-smart-post-grid.php:664
+msgid ""
+"Set custom title for view all button, leave blank to get default or leave a "
+"space to hide it."
+msgstr ""
+
+#: cactus-smart-post-grid.php:1168
+msgid "View all posts in "
+msgstr ""
+
+#: cactus-smart-post-grid.php:1189 cactus-smart-post-grid.php:1191
+msgid "by "
+msgstr ""
+
+#: cactus-smart-post-grid.php:1208
+msgid "Share on Facebook"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1210
+msgid "Facebook"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1221
+msgid "Share on Twitter"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1223
+msgid "Twitter"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1234
+msgid "Share on Google Plus"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1236
+msgid "Google Plus"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1247
+msgid "Pin this"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1249
+msgid "Pinterest"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1260
+msgid "Email this"
+msgstr ""
+
+#: cactus-smart-post-grid.php:1262
+msgid "Email"
+msgstr ""
