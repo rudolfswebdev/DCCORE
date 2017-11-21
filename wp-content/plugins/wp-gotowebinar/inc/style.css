@@ -1,0 +1,285 @@
+.upcoming-webinars,
+.webinar-registration {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.upcoming-webinars th,
+.upcoming-webinars td {
+    vertical-align: top;
+}
+
+@media only screen and (min-width: 601px) {
+    .upcoming-webinars .large-column {
+        width: 50%;
+    }
+    .upcoming-webinars .small-column {
+        width: 12.5%;
+    }
+    .webinar-registration .large-column {
+        width: 70%;
+    }
+    .webinar-registration .small-column {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .upcoming-webinars td,
+    .webinar-registration td {
+        width: 100%;
+        display: block;
+    }
+    .upcoming-webinars .large-column,
+    .webinar-registration .large-column {
+        width: 100%;
+        display: block;
+    }
+    .upcoming-webinars .small-column,
+    .webinar-registration .small-column {
+        width: 100%;
+        display: block;
+    }
+    .upcoming-webinars th {
+        display: none;
+    }
+    .upcoming-webinars tr {
+        border-bottom: 3px solid black;
+        display: block;
+    }
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 4px 11px;
+    z-index: 9999;
+}
+
+.webinar-registration input[type="submit"] {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.upcoming-webinars fa,
+.upcoming-webinars a,
+.upcoming-webinars-widget fa,
+.upcoming-webinars-widget a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+
+.upcoming-webinars-widget span,
+.webinar-registration-header span {
+    padding-right: 12px;
+    display: inline-block;
+}
+
+.upcoming-webinars-widget .fa,
+.webinar-registration-header .fa {
+    padding-right: 3px;
+}
+
+#date-time-duration-details {
+    padding-bottom: 10px;
+}
+
+.webinar-registration {
+    margin-top: 40px;
+}
+
+.webinar-registration .gotowebinar-required:after {
+    content: "*";
+    font-size: x-small;
+    color: darkred;
+    vertical-align: top;
+}
+
+.webinar-registration .gotowebinar-field,
+.webinar-registration .gotowebinar-question {
+    width: 100%;
+    border-radius: 0px;
+    height: 40px;
+}
+
+label.error {
+    color: darkred;
+    margin-top: 3px;
+    display: block;
+}
+
+.webinar-registration-header span {
+    display: inline-block;
+}
+
+.webinar-registration .success-message,
+.webinar-registration .error-message {
+    display: block;
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+
+@-webkit-keyframes webkit-animation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(-359deg);
+    }
+}
+
+@-moz-keyframes moz-animation {
+    from {
+        -moz-transform: rotate(0deg);
+    }
+    to {
+        -moz-transform: rotate(-359deg);
+    }
+}
+
+@-o-keyframes o-animation {
+    from {
+        -o-transform: rotate(0deg);
+    }
+    to {
+        -o-transform: rotate(-359deg);
+    }
+}
+
+@keyframes normal-animation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-359deg);
+    }
+}
+
+.webinar-registration .fa-spinner {
+    -webkit-animation: webkit-animation 2s infinite linear;
+    -moz-animation: moz-animation 2s infinite linear;
+    -o-animation: o-animation 2s infinite linear;
+    animation: normal-animation 2s infinite linear;
+    margin-left: 10px;
+    font-size: larger;
+    display: none;
+}
+
+.upcoming-webinars-widget {
+    margin-bottom: 24px;
+}
+
+a.information-icon, .timezone-convert-link, .timezone-convert-link-registration {
+    cursor: pointer;
+}
+
+#timezone-answer {
+    display: inline-block;
+}
+
+.webinar-checkout-heading {
+margin-top: 2.4347826087em !important;
+}
+
+.fc-scroller.fc-day-grid-container {
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+}
+
+.fc-row:first-child table {
+    margin-bottom: 0px !important;
+}
+
+
+body:before{
+    display:none !important;
+}
+
+
+
+.gotowebinar-top-toolbar {
+    text-align: center;
+    width: auto !important;
+    padding: 5px 45px;
+    display: none;   
+}
+
+#close-gotowebinar-toolbar {
+    float: right;
+    font-size: 20px;
+    opacity: .4;
+    position: absolute;
+    right: 13px;
+    top: 17px;
+    
+}
+
+.flip-clock-label {
+    display: none !important;
+}
+
+.gotowebinar-top-toolbar-register-button {
+    vertical-align: middle !important;
+    margin: 5px 7px;
+    padding: 2px 12px;
+    display: inline-block !important; 
+    
+}
+
+#webinar-countdown-clock {
+    display: inline-block !important; 
+    vertical-align: middle !important;
+    margin: 5px 7px;
+    width: auto;
+}
+
+
+
+/*The below CSS is for scaling the clock*/
+#webinar-countdown-clock ul {
+    width: 23px;
+    height: 34px;
+    margin: 0 2px;
+}
+#webinar-countdown-clock ul li {
+    line-height: 34px;
+}
+#webinar-countdown-clock ul li a div div.inn {
+    border-radius: 3px;
+    font-size: 30px;
+}
+#webinar-countdown-clock ul li a div.down {
+    border-bottom-left-radius: 3px; 
+    border-bottom-right-radius: 3px;
+}
+#webinar-countdown-clock ul li a div.up:after {
+    top: 16px;
+    height: 2px; 
+}
+
+#webinar-countdown-clock .flip-clock-dot.top {
+top: 10px;
+}
+
+#webinar-countdown-clock .flip-clock-dot.bottom {
+bottom: 0;
+top: 25px;
+}
+
+#webinar-countdown-clock .flip-clock-dot{
+width: 6px;
+height: 6px;
+}
+
+#webinar-countdown-clock .flip-clock-divider {
+width: 15px;
+height: 34px;
+}
+
+#webinar-countdown-clock .flip-clock-divider.hours {
+    width: 0px;
+}
+
