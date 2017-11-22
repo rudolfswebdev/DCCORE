@@ -2,6 +2,12 @@
 
 == Changelog ==
 
+= [4.7.2] 2017-11-21 =
+
+* Feature - Added Template class which adds a few layers of filtering to any template file included
+* Tweak - Included `tribe_callback_return` for static returns for Hooks
+* Language - 0 new strings added, 0 updated, 1 fuzzied, and 0 obsoleted
+
 = [4.7.1] 2017-11-16 =
 
 * Fix - Added support for translatable placeholder text when dropdown selectors are waiting on results being returned via ajax [84926]
@@ -120,3 +126,4 @@
 
 * Fix - Resolved issue where the Meta Chunker attempted to inappropriately chunk meta for post post_types [80857]
 * Language - 0 new strings added, 0 updated, 1 fuzzied, and 0 obsoleted [tribe-common]
+
